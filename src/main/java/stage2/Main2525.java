@@ -3,13 +3,13 @@ package stage2;
 import java.util.Scanner;
 
 public class Main2525{
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        int h,m,a,;
+        int h,m,a;
         h=sc.nextInt();
         m=sc.nextInt();
         a=sc.nextInt();
-
+W
         h+=a/60;
         m+=a%60;
 
